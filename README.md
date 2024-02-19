@@ -36,7 +36,7 @@ Wait for the search results to load.
 
 Verify that the LinkedIn profile link associated with "Iliyan Bogdanov" is present in the search results.
 
-Expected Outcome: The test should pass if the LinkedIn profile link for "Iliyan Bogdanov" is found in the search results, indicating that the Google search functionality is working correctly.
+**Expected Outcome:** The test should pass if the LinkedIn profile link for "Iliyan Bogdanov" is found in the search results, indicating that the Google search functionality is working correctly.
 
 **Notes:**
 Ensure that you have a stable internet connection to run the test successfully.

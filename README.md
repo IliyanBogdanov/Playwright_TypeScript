@@ -23,12 +23,17 @@ Test Name: Verify Google Search Functionality
 Objective: To verify that a Google search for a specific query returns relevant results, including a LinkedIn profile link associated with the searched query.
 
 **Test Steps:**
-Navigate to the Google homepage./n
+Navigate to the Google homepage.
 Accept the terms by clicking the "Приемане на всички" button.
+
 Fill in the search query with "Iliyan Bogdanov".
+
 Press the "Enter" key to submit the search.
+
 Wait for the search results to load.
+
 Verify that the LinkedIn profile link associated with "Iliyan Bogdanov" is present in the search results.
+
 Expected Outcome: The test should pass if the LinkedIn profile link for "Iliyan Bogdanov" is found in the search results, indicating that the Google search functionality is working correctly.
 
 **Notes:**
